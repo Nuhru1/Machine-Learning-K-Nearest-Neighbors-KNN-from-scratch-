@@ -72,10 +72,7 @@ def getAccuracy(testSet, predictions):
 
 
 
-
-
-
-
+#-------------------------------------------------------------------
 def main():
     trainingSet =[]
     testSet = []
@@ -83,9 +80,7 @@ def main():
     
     loadDataset('iris.data', split, trainingSet, testSet)
     
-    
     predictions = []
-    
     k = 3
     
     for x in range(len(testSet)):
