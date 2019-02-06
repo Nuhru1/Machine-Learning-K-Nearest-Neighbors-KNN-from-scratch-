@@ -20,4 +20,3 @@ The problem is comprised of 150 observations of iris flowers from three differen
 
 # Result:
 
-![screenshot 15](https://user-images.githubusercontent.com/44145876/52373639-270af000-2a96-11e9-90dc-bfe0ee30876e.png)
