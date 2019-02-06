@@ -7,5 +7,17 @@ The problem is comprised of 150 observations of iris flowers from three differen
 
 # Implementation using Python3:
 -Open the dataset from CSV and split into test/train datasets.
+
 -Calculate the distance between two data instances.
+
 -Get the k most similar data instances based on distance.
+
+-Generate a response from a set of data instances.
+
+-Compute the accuracy
+
+
+
+# Result:
+
+
