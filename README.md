@@ -1,1 +1,1 @@
-# Machine-Learning-K-Nearest-Neighbors-KNN-from-scratch-
+# K-Nearest-Neighbors-KNN-from-scratch-
